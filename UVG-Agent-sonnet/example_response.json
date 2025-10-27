@@ -1,0 +1,73 @@
+{
+  "answer": "Sí, UVG Campus Altiplano cuenta con Academia CISCO. Según el contexto, UVG Campus Altiplano es una de las pocas instituciones en la región y en Guatemala que cuenta con el programa Cisco Networking Academy, el cual prepara a nuestros estudiantes para obtener certificaciones internacionales emitidas por CISCO, como: CCNA (Cisco Certified Network Associate), CCNP (Cisco Certified Network Professional), CCNA Security, entre otras.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Informática (2).pdf",
+      "text": "Laboratorios\nContamos con distintos laboratorios en los que podrás llevar al máximo tu aprendizaje\n\nLaboratorios de computación\nLaboratorio de telecomunicaciones\nMakerspace (espacio para construir ideas)\nLaboratorio de electrónica\nBiblioteca\nLaboratorios de química y biología\n\nAcademia CISCO\nUVG Campus Altiplano es una de las pocas instituciones en la región y en Guatemala que cuenta con el programa Cisco Networking Academy, el cual prepara a nuestros estudiantes para obtener certificaciones internacionales emitidas por CISCO, como: CCNA (Cisco Certified Network Associate), CCNP (Cisco Certified Network Professional), CCNA Security, entre otras.",
+      "score": 0.999,
+      "page": 2,
+      "field": "/f/2d65cc83db6d363db69217c482646c16",
+      "resource_id": "2d65cc83db6d363db69217c482646c16",
+      "url": "/kb/5a222e22-1ea8-4aad-9282-bbd025ea6412/resource/2d65cc83db6d363db69217c482646c16/file/2d65cc83db6d363db69217c482646c16/download/field",
+      "url_type": "resource",
+      "resource_type": "application/pdf",
+      "has_url": true,
+      "is_downloadable": true,
+      "file": {
+        "download_url": "https://aws-us-east-2-1.rag.progress.cloud/api/v1/kb/5a222e22-1ea8-4aad-9282-bbd025ea6412/resource/2d65cc83db6d363db69217c482646c16/file/2d65cc83db6d363db69217c482646c16/download",
+        "content_type": "application/pdf",
+        "size": 4956786,
+        "filename": "Informática (2).pdf",
+        "file_id": "2d65cc83db6d363db69217c482646c16",
+        "is_pdf": true,
+        "is_excel": false
+      }
+    },
+    {
+      "id": 2,
+      "title": "Portal UVG Campus Altiplano | Universidad del Valle de Guatemala",
+      "text": "La ingeniería en informática y ciencias de la computación es un programa único diseñado para estudiantes...",
+      "score": 0.456,
+      "page": null,
+      "field": "/u/link",
+      "resource_id": "d91f76ab7dad482e89462cd23b32ea0e",
+      "url": "https://campus.uvg.edu.gt/altiplano/",
+      "url_type": "external",
+      "resource_type": "application/stf-link",
+      "has_url": true,
+      "is_downloadable": false
+    },
+    {
+      "id": 3,
+      "title": "Copia de Calendario Académico 2025 UVG Campus Altiplano.xlsx",
+      "text": "Calendario Académico 2025 - Datos del trimestre...",
+      "score": 0.234,
+      "page": null,
+      "field": "/f/0e3656ef9eaaec84cd309455fc238c99",
+      "resource_id": "0e3656ef9eaaec84cd309455fc238c99",
+      "url": "/kb/5a222e22-1ea8-4aad-9282-bbd025ea6412/resource/0e3656ef9eaaec84cd309455fc238c99/file/0e3656ef9eaaec84cd309455fc238c99/download/field",
+      "url_type": "resource",
+      "resource_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "has_url": true,
+      "is_downloadable": true,
+      "file": {
+        "download_url": "https://aws-us-east-2-1.rag.progress.cloud/api/v1/kb/5a222e22-1ea8-4aad-9282-bbd025ea6412/resource/0e3656ef9eaaec84cd309455fc238c99/file/0e3656ef9eaaec84cd309455fc238c99/download",
+        "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "size": 23456,
+        "filename": "Copia de Calendario Académico 2025 UVG Campus Altiplano.xlsx",
+        "file_id": "0e3656ef9eaaec84cd309455fc238c99",
+        "is_pdf": false,
+        "is_excel": true
+      }
+    }
+  ],
+  "model": "claude-4-sonnet",
+  "nuclia_kb": "5a222e22-1ea8-4aad-9282-bbd025ea6412",
+  "params": {
+    "size": 30,
+    "max_chunks": 20,
+    "use_semantic": true,
+    "min_score": 0.0
+  }
+}

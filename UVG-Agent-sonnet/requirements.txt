@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+requests>=2.31
+anthropic>=0.30
+python-dotenv>=1.0
+pydantic>=2.6
+nuclia>=3.0
